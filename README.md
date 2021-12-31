@@ -6,6 +6,6 @@ Your favorite and professional chef from One Piece, though that was a long time 
 
 ![Logo](https://i.imgur.com/iH7C2sz.jpg)
 
-![Logo](https://i.redd.it/60djaynoas881.png)
+![Logo](https://github.com/ThatBaratieCook/ThatBaratieCook/blob/main/MinecraftUBP.png?raw=true)
 
 
